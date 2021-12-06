@@ -16,7 +16,7 @@
   * 009koushik
   * 010mahanthi
 
-1. professional hackers
+1. Gold medalists in cybersecurity
     1. Uday
     2. Revanth
     3. Koushik
@@ -36,6 +36,7 @@
 s.no|wanted name|crimes
 ----|----|------
 1|revanth|hacking bank server 
-2|uday|hackinng rbi
+2|uday|hacking rbi
 3|koushik|hacking clg servers
-4|mahanthi|hacking 
+4|mahanthi|hacking hospital servers
+
