@@ -38,7 +38,7 @@ s.no|wanted name|crimes|photos
 1|revanth|hacking bank server|![image](https://user-images.githubusercontent.com/95603892/144799444-ad8132f8-a3e2-4b10-824f-ecbddd2f7ba4.png)
 2|uday|hacking rbi|![image](https://user-images.githubusercontent.com/95603892/144801431-93f60601-263e-4267-89fe-a6b4fae19669.png)
 3|koushik|hacking clg servers|:money_mouth_face:
-4|mahanthi|hacking hospital servers|![image](https://user-images.githubusercontent.com/95603892/144800828-ef1f3d5a-518b-48d5-9108-17231123e3c4.png)
+4|mahanthi and lekith|hacking hospital servers|![image](https://user-images.githubusercontent.com/95603892/144800828-ef1f3d5a-518b-48d5-9108-17231123e3c4.png)
 
 
 
